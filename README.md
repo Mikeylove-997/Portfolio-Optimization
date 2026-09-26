@@ -16,4 +16,3 @@ Built a tool to recommend investment portfolios for 15 clients of a mock wealth 
 •	When clients had competing targets, like return versus ESG, I used goal programming to show how close we could get to each one. 
 •	When rules required whole numbers, like buying bonds in fixed amounts, I used an integer model so the portfolio could be executed.
 The most interesting finding was about aggressive clients. We expected risk tolerance to drive the differences between clients, and it did for conservative ones. But past a certain point, giving aggressive clients more risk tolerance didn't raise their returns at all. They'd already hit the cap in every high-return investment. So, the hard rule we started with, not their risk appetite, turned out to be the real bottleneck.
-<img width="468" height="336" alt="image" src="https://github.com/user-attachments/assets/a27193e7-b2ec-4822-bf59-2fb1a29bcb1d" />
